@@ -5,9 +5,9 @@
     <string name="vke">VKE</string>
     <string name="zayif">Zayıf</string>
     <string name="normal">Normal</string>
-    <string name="hafifSisman">Hafif Şişman</string>
+    <string name="hafifSisman">Kilolu</string>
     <string name="sisman">Şişman</string>
-    <string name="onemliDerecedeSisman">Önemli Derecede Şişman</string>
+    <string name="onemliDerecedeSisman">Obez</string>
     <string name="asiriSisman">Aşırı Şişman</string>
     <string name="olumculSisman">Ölümcül Şişman</string>
 </resources>
